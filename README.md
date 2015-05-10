@@ -23,7 +23,7 @@ leaves a random number of spaces between each field, and no indication of missin
 It is in `data/registration-district-guide.txt`.
 
 The program `makecsv.php` (requires command-line PHP) in `src/` takes this text file 
-and attempts to identify the fields, and put the results in a CSV file (pipe '|' delimited).
+and attempts to identify the fields, and put the results in a CSV file (tab delimited).
 
 ##Results
 

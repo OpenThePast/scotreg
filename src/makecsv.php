@@ -30,7 +30,7 @@ foreach ($file as $f) {
 			$r['today'] = array_shift($e);
 			if ($e[0]) $r['today2'] = array_shift($e);
 		};	
-		$d = '|'; // field delimiter
+		$d = "\t"; // field delimiter
 		echo $r['name'],$d,$r['county'],$d,$r['start'],$d,$r['end'],$d,$r['type'],$d,$r['rd'],$d,$r['rdsuff'],$d,$r['today'],$d,$r['today2'],"\n";
 	};	
 };
