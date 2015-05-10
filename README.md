@@ -27,7 +27,7 @@ and attempts to identify the fields, and put the results in a CSV file (tab deli
 
 ##Results
 
-The result is in `data/scotreg.csv`.  This is very much a first pass, and will contain errors.
+The result is in `data/scotreg.tsv`.  This is very much a first pass, and will contain errors.
 
 The columns are:
 
