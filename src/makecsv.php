@@ -1,7 +1,7 @@
 <?php
 // https://github.com/OpenThePast/scotreg
 $file = file('registration-district-guide.txt');
-echo "name\tcounty\tstart\tend\trd\trdsuff\ttoday\ttodayend\t\n";
+echo "name\tcounty\tstart\tend\ttype\trd\trdsuff\ttoday\ttodayend\n";
 //$file = file('test.txt');
 foreach ($file as $f) {
 	if ($f[0] == ' ' and  ctype_upper($f[1])) {

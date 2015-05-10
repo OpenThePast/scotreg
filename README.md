@@ -5,6 +5,9 @@ Scottish Parishes and Registration Districts
 This repo aims to build an open data, freely reusable, machine readable, file
 of the parishes and registration districts in Scotland, and their codes.
 
+This file (once GIS data is added, see roadmap) can then be used for geographic searches,
+mapping (for example for surname distribution), and transcript placename checking.
+
 ##Source
 The initial data is from the
 [National Records of Scotland](http://www.nrscotland.gov.uk/research/guides/statutory-registers/registration-districts).
