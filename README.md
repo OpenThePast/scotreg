@@ -7,9 +7,9 @@ of the parishes and registration districts in Scotland, and their codes.
 
 ##Source
 The initial data is from the
-(National Records of Scotland)[http://www.nrscotland.gov.uk/research/guides/statutory-registers/registration-districts].
+[National Records of Scotland](http://www.nrscotland.gov.uk/research/guides/statutory-registers/registration-districts).
 
-It is licenced under the (Open Government Licence v3.0)[http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/].
+It is licenced under the [Open Government Licence v3.0](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
 
 However, the data is only available from the National Records of Scotland (NRS) as 
 a PDF file.  The text of the pdf is not directly usable to populate files and spreadsheets.
@@ -57,10 +57,10 @@ Plans include (if time is available - help welcome!):
 
 The pdf file is licensed by NRS under the Open Government License
 
-The txt and csv files are licensed by Open The Past under the (CC BY 4.0)[http://creativecommons.org/licenses/by/4.0/] license.  In other
+The txt and csv files are licensed by Open The Past under the [CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) license.  In other
 words, if you use the files, please attribute (cite) this repo as the source.
 
-Programs are under the (MIT License)[http://opensource.org/licenses/MIT].
+Programs are under the [MIT License](http://opensource.org/licenses/MIT).
 
 
 
