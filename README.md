@@ -14,7 +14,7 @@ It is licenced under the [Open Government Licence v3.0](http://www.nationalarchi
 However, the data is only available from the National Records of Scotland (NRS) as 
 a PDF file.  The text of the pdf is not directly usable to populate files and spreadsheets.
 
-A copy of the pdf, from 2014-05-09 is in `data/registration-district-guide.pdf`.
+A copy of the pdf, from 2015-05-09 is in `data/registration-district-guide.pdf`.
 
 ##Process
 
@@ -47,7 +47,7 @@ Corrections are very welcome, either by raising an issue, or by a pull request.
 
 Plans include (if time is available - help welcome!):
 
-* add details of the major cities from the appendixes of the NRS file (when available, see issue).
+* add details of the major cities from the appendixes of the NRS file (when available, see issue #1).
 * geocode places to their central point location, using an open data source for the co-ordinates such as OS Opennames.
 * build lists of "nearby" parishes for each parish.
 * add GIS borders for the parishes, where possible (and allow for historical changes).
